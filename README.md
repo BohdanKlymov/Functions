@@ -8,26 +8,26 @@ This repository contains six small Python projects focused on practicing and imp
 
 1. BasicFunctionDefinition.py
 
-Introduction to defining and calling simple functions.
+  Introduction to defining and calling simple functions.
 
 2. DefaultParameters.py
 
-Demonstrates how to use default parameter values in functions.
+  Demonstrates how to use default parameter values in functions.
 
-3. FunctionsCallingOtherFunctions.py
+3. FunctionWithReturnValue.py
 
-Shows how functions can call other functions to structure code better.
+  Explains how functions can return values for further use.
 
-4. FunctionWithReturnValue.py
+4. FunctionsCallingOtherFunctions.py
 
-Explains how functions can return values for further use.
+  Shows how functions can call other functions to structure code better
 
 5. MultipleReturnValues.py
 
-Demonstrates how a function can take a list of numbers, process each element, and return a new list as the result.
+  Demonstrates how a function can take a list of numbers, process each element, and return a new list as the result.
 
-In this example, each number in the list is increased by 2, and the updated list is returned.
+  In this example, each number in the list is increased by 2, and the updated list is returned.
 
-RecursiveFunction.py
+6. RecursiveFunction.py
 
-Covers recursion — functions that call themselves to solve problems.
+  Covers recursion — functions that call themselves to solve problems.
