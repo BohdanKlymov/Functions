@@ -6,23 +6,23 @@ This repository contains six small Python projects focused on practicing and imp
 
 # Project Structure
 
-BasicFunctionDefinition.py
+1. BasicFunctionDefinition.py
 
 Introduction to defining and calling simple functions.
 
-DefaultParameters.py
+2. DefaultParameters.py
 
 Demonstrates how to use default parameter values in functions.
 
-FunctionsCallingOtherFunctions.py
+3. FunctionsCallingOtherFunctions.py
 
 Shows how functions can call other functions to structure code better.
 
-FunctionWithReturnValue.py
+4. FunctionWithReturnValue.py
 
 Explains how functions can return values for further use.
 
-MultipleReturnValues.py
+5. MultipleReturnValues.py
 
 Demonstrates how a function can take a list of numbers, process each element, and return a new list as the result.
 
